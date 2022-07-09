@@ -1,0 +1,29 @@
+Basic Structure:
+
+Map
+  - Design
+  - Grid
+  - Properties
+  - Houses / hotels
+  - Jail turns
+
+Chance cards
+
+Players
+  - Owned properties
+  - Money
+  - Consecutive rounds in jail
+  - Icon
+    - Design
+
+
+Turns
+  - Payment detection
+  - Consecutive doubles in turn
+  - Bankrupt
+  - Trade
+  - Property management
+
+Special areas (GO, Jail, Visiting Jail, Go to Jail, Free Parking)
+
+Win detection
