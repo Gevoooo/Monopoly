@@ -18,6 +18,8 @@ Players
 
 
 Turns
+  - Dice throw
+    - Design
   - Payment detection
   - Consecutive doubles in turn
   - Bankrupt
