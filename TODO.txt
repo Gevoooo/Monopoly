@@ -8,6 +8,7 @@ Map
   - Jail turns
 
 Chance cards
+Community chest
 
 Players
   - Owned properties
