@@ -11,6 +11,7 @@ Chance cards
 Community chest
 
 Players
+  - Static count of how many players
   - Owned properties
   - Money
   - Consecutive rounds in jail
